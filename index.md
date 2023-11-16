@@ -5,5 +5,7 @@
 ##### heading 5
 ###### heading 6
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 added different headings using markdown
